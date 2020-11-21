@@ -122,7 +122,7 @@ Implement Prioritized Experience Replay [paper](https://arxiv.org/abs/1511.05952
 Implement Parameter Space Noise for Exploration [paper](https://arxiv.org/abs/1706.01905)
 
     
-### (Optional) Challenge: Crawler Environment
+### (Optional) Challenge: Soccer Environment
 
 After you have successfully completed the project, you might like to solve the more difficult **Soccer** environment.
 
