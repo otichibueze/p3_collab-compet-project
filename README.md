@@ -96,7 +96,8 @@ To solve we will implement Multi-Agent Deep Deterministic Policy Gradient (MADDP
 For More detail on [MADDPG paper](https://arxiv.org/abs/1509.02971)
 
 **Learning Algorithm**
-[image of algorithm]()
+
+![alt text](https://github.com/otichibueze/p3_collab-compet-project/blob/master/MADDPG_alg.png)
 
 #### Hyper Parameters Used
 - BUFFER_SIZE = int(1e6) 
@@ -112,14 +113,15 @@ For More detail on [MADDPG paper](https://arxiv.org/abs/1509.02971)
 
 ### Experiment Result
 
-[image]()
-Enviroment Solved in 1617 episodes with an average score 0.5 over 100 episodes.
-We continued training and achieved a maximum average score of 0.81 and also maintained stability till 5000 episodes
+![alt text](https://github.com/otichibueze/p3_collab-compet-project/blob/master/results.png)
+
+- Enviroment Solved in 1617 episodes with an average score 0.5 over 100 episodes.
+- We continued training and achieved a maximum average score of 0.81 and also maintained stability till 5000 episodes
 
 
 ### Future Improvements
-Implement Prioritized Experience Replay [paper](https://arxiv.org/abs/1511.05952)
-Implement Parameter Space Noise for Exploration [paper](https://arxiv.org/abs/1706.01905)
+- Implement Prioritized Experience Replay [paper](https://arxiv.org/abs/1511.05952)
+- Implement Parameter Space Noise for Exploration [paper](https://arxiv.org/abs/1706.01905)
 
     
 ### (Optional) Challenge: Soccer Environment
